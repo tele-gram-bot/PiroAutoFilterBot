@@ -44,7 +44,7 @@ class script(object):
 ○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/netflixOxG'>MOVIES FLIX</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-Special Thanks to EvaMaria Devs & Cloners for the codes 
+Special Thanks to Cloners for the codes 
 <b>ADINAN:</b>
 
 - <a href=https://t.me/adinannissar>『ADINAN』</a>
